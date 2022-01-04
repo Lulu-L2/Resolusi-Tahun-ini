@@ -2,3 +2,5 @@ Tahun Ini
 
 Bisa advance dalam web development
 belajar bahasa pemrograman pyton, javascript, dan c++
+membuat aplikasi mobile
+membuat web web baru
