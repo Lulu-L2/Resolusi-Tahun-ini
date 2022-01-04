@@ -5,3 +5,4 @@ belajar javascript
 *belajarlah
 belajar pyton
 belajarc+++
+Struktur data dasar
