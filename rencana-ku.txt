@@ -2,6 +2,7 @@ rencanaku
 
 belajar javascript
 *javascript framework
+__react
 *belajarlah
 *vue
 belajar pyton
