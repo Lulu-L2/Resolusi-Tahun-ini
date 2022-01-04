@@ -2,7 +2,11 @@ rencanaku
 
 belajar javascript
 *javascript framework
+__react
 *belajarlah
+*vue
 belajar pyton
+*backend
 belajarc+++
+php
 Struktur data dasar
