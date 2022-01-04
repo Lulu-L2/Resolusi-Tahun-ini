@@ -4,7 +4,9 @@ belajar javascript
 *javascript framework
 __react
 *belajarlah
-*angular
+*vue
 belajar pyton
+*backend
 belajarc+++
 php frameworks
+
